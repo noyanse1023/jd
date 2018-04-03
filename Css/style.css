@@ -1,0 +1,1339 @@
+/*发现好货/品牌街/排行榜Start*/
+#JDhhppbb{
+	width: 1190px;
+	height: 444px;
+	margin: 0px auto 30px;
+}
+#JDhhppbb>div{
+	width: 390px;
+	height: 444px;
+	background: #fff;
+	margin-right: 10px;
+}
+#JDhhppbb>div.JDphb{
+	margin-right: 0px!important;
+}
+#JDhhppbb>div>div{
+	position: relative;
+	overflow: hidden;
+}
+#JDhhppbb>div>div>i{
+	display: block;
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 0px;
+	height: 0px;
+	border-top: 19px solid #f6f6f6;
+	border-right: 19px solid transparent;
+}
+#JDhhppbb>div>div>span{
+	display: block;
+	width: 28px;
+	height: 28px;
+	background-image: url("../images/home/JDhome.png");
+	background-size: 218px 188px;
+	background-position: -190px -96px;
+	position: absolute;
+	top: -4px;
+	left: -4px;
+}
+.JDfxhhTop{
+	width: 100%;
+	height: 55px;
+	background: #4998a1;
+	background-image: linear-gradient(90deg,#4998a1,#2e828b);
+	background-image: -webkit-linear-gradient(left,#4998a1,#2e828b);
+	background-image: -moz-linear-gradient(left,#4998a1,#2e828b);
+}
+.JDppjTop{
+	width: 100%;
+	height: 55px;
+	background: #7d2e5c;
+	background-image: linear-gradient(90deg,#7d2e5c,#6f184a);
+	background-image: -webkit-linear-gradient(left,#7d2e5c,#6f184a);
+	background-image: -moz-linear-gradient(left,#7d2e5c,#6f184a);
+}
+.JDppjTop>span{
+	background-position: 0px -160px!important;
+}
+.JDphbTop{
+	width: 100%;
+	height: 55px;
+	background: #e77005;
+	background-image: linear-gradient(90deg,#e77005,#e45d04);
+	background-image: -webkit-linear-gradient(left,#e77005,#e45d04);
+	background-image: -moz-linear-gradient(left,#e77005,#e45d04);
+}
+.JDphbTop>span{
+	background-position: -190px 0px!important;
+}
+#JDhhppbb>div>div>h3{
+	font-size: 26px;
+	height: 40px;
+	line-height: 40px;
+	color: #fff;
+	position: absolute;
+	left: 30px;
+	top: 9px;
+	font-weight: lighter;
+}
+#JDhhppbb>div>div>a.top{
+	display: block;
+	height: 24px;
+	line-height: 24px;
+	color: #fff;
+	font-size: 14px;
+	position: absolute;
+	top: 19px;
+	right: 20px;
+}
+#JDhhppbb>div>div>a.top>i{
+	float: right;
+	display: inline-block;
+	width: 15px;
+	height: 16px;
+	margin: 4px 0px 0px 6px;
+	background-image: url("../images/home/JDhome.png");
+	background-size: 218px 188px;
+	background-position: -154px -40px;
+}
+.JDfxhhBottom{
+	padding: 10px;
+}
+.JDfxhhBottom>a{
+	float: left;
+	display: block;
+	width: 185px;
+	height: 120px;
+	box-sizing: border-box;
+	border-right: 1px solid #e7e7e7;
+	border-bottom: 1px solid #e7e7e7;
+	position: relative;
+}
+.JDfxhhBottom>a p{
+	width: 80px;
+	line-height: 20px;
+	font-size: 14px;
+	color: #4998a1;
+	position: absolute;
+	top: 15px;
+	left: 20px;
+}
+.JDfxhhBottom>a img{
+	width: 80px;
+	height: 80px;
+	position: absolute;
+	bottom: 5px;
+	right: 10px;
+	transition:all 0.5s ease;
+	-moz-transition:all 0.5s ease;
+	-webkit-transition:all 0.5s ease;
+	-o-transition:all 0.5s ease;
+	-ms-transition:all 0.5s ease;
+}
+.JDfxhhBottom>a:hover img{
+	right: 15px;
+}
+.JDppjBottom{
+	padding: 10px;
+}
+.JDppjBottom>a{
+	display: block;
+	float: left;
+	width: 185px;
+	border-right: 1px solid #e7e7e7;
+	box-sizing: border-box;
+	padding: 15px 22px 10px 23px;
+}
+.JDppjBottom>a p{
+	font-size: 16px;
+	color: #8b3a6d;
+	margin-bottom: 5px;
+	line-height: 18px;
+	height: 18px;
+	overflow: hidden;
+	text-overflow: ellipsis;
+	white-space: nowrap;
+}
+.JDppjBottom>a span{
+	display: block;
+	color: #666;
+	font-size: 12px;
+	height: 36px;
+	line-height: 18px;
+	margin-bottom: 8px;
+	overflow: hidden;
+}
+.JDppjBottom>a>div{
+	width: 19px;
+	height: 3px;
+	background: #8b3a6d;
+	margin-bottom: 12px;
+}
+.JDppjBottom>a img{
+	margin: 0px auto;
+	position: relative;
+	left: 0;
+	transition:all 0.5s ease;
+	-moz-transition:all 0.5s ease;
+	-webkit-transition:all 0.5s ease;
+	-o-transition:all 0.5s ease;
+	-ms-transition:all 0.5s ease;
+}
+.JDppjBottom>a:hover img{
+	left: -5px;
+}
+.JDppjBottom>div img{
+	margin: 12px auto 0px;
+}
+.JDphbCard{
+	width: 370px;
+	height: 31px;
+	margin: 0px auto;
+	border-bottom: 1px solid #e7e7e7;
+	overflow: hidden;
+}
+.JDphbCard>div{
+	float: left;
+	width: 20%;
+	height: 31px;
+	color: #666;
+	box-sizing: border-box;
+	padding: 6px 2px 7px;
+	border-right: 1px solid #e7e7e7;
+	line-height: 18px;
+	text-align: center;
+	cursor: pointer;
+	white-space: nowrap;
+	text-overflow: ellipsis;
+	overflow: hidden;
+	position: relative;
+}
+.JDphbCard>div:hover{
+	color: #c81623;
+}
+.JDphbCard>div>span{
+	display: none;
+	width: 80%;
+	border-bottom: 2px solid #f10214;
+	position: absolute;
+	bottom: 0px;
+	left: 10%;
+}
+.JDphbCard>div.cur>span{
+	display: block!important;
+}
+.JDphbPage>div{
+	display: none;
+	padding: 10px;
+}
+.JDphbPage>div.cur{
+	display: block!important;
+}
+.JDphbPage>div>a{
+	float: left;
+	display: block;
+	width: 122px;
+	padding: 12px 0px;
+	border-right: 1px solid #e7e7e7;
+	border-bottom: 1px solid #e7e7e7;
+	position: relative;
+}
+.JDphbPage>div>a>span{
+	display: block;
+	width: 30px;
+	height: 40px;
+	line-height: 35px;
+	text-align: center;
+	font-size: 22px;
+	color: #fff;
+	background-image: url("../images/home/JDhome.png");
+	background-size: 218px 188px;
+	position: absolute;
+	top: 12px;
+	left: 11px;
+}
+.JDphbPage>div>a>span.bg1{
+	background-position: -104px -40px;
+}
+.JDphbPage>div>a>span.bg2{
+	background-position: -50px -100px;
+}
+.JDphbPage>div>a>span.bg3{
+	background-position: 0px -100px;
+}
+.JDphbPage>div>a>span.bg4{
+	background-position: -100px -100px;
+}
+.JDphbPage>div>a>img{
+	margin: 0px auto 10px;
+}
+.JDphbPage>div>a>p{
+	height: 32px;
+	padding: 0 11px;
+	color: #666;
+	font-size: 12px;
+	line-height: 16px;
+	overflow: hidden;
+	text-overflow: ellipsis;
+	display: -webkit-box;
+	-webkit-line-clamp: 2;
+	-webkit-box-orient: vertical;
+}
+.JDphbPage>div>a:hover>p{
+	color: #c81623;
+}
+/*End*/
+/*领劵中心Start*/
+#JDljzx{
+	width: 1190px;
+	height: 215px;
+	margin: 0px auto 30px;
+	background: #fff;
+	position: relative;
+}
+.JDljzxLeft{
+	width: 190px;
+	height: 100%;
+	background: #ea3524;
+	position: absolute;
+	left: 0px;
+	top: 0px;
+}
+.JDljzxLeft>a{
+	display: block;
+	padding: 25px;
+	width: 140px;
+	height: 165px;
+	color: #fff;
+}
+.JDljzxLeft>a>h3{
+	width: 100%;
+	height: 36px;
+	line-height: 36px;
+	font-size: 30px;
+	font-weight: lighter;
+	white-space: nowrap;
+	text-overflow: ellipsis;
+	overflow: hidden;
+}
+.JDljzxLeft>a>span{
+	display: block;
+	margin-top: 10px;
+	margin-bottom: 20px;
+	width: 55px;
+	height: 3px;
+	background-color: #fff;
+}
+.JDljzxLeft>a>p{
+	font-size: 12px;
+	height: 20px;
+	line-height: 20px;
+	overflow: hidden;
+	white-space: nowrap;
+	text-overflow: ellipsis;
+}
+.JDljzxLeft>a>em{
+	display: block;
+	position: relative;
+	margin-top: 20px;
+	padding: 4px 35px 4px 15px;
+	height: 20px;
+	border: 2px solid #fff;
+	line-height: 20px;
+	overflow: hidden;
+}
+.JDljzxLeft>a>em>i{
+	width: 15px;
+	height: 16px;
+	background-image: url("../images/home/JDhome.png");
+	background-size: 218px 188px;
+	background-position: -154px -40px;
+	position: absolute;
+	right: 12px;
+	top: 6px;
+}
+.JDljzxRight{
+	width: 1000px;
+	height: 100%;
+	position: absolute;
+	top: 0px;
+	right: 0px;
+}
+.JDljzxRight>a{
+	float: left;
+	display: block;
+	width: 199px;
+	border-right: 1px solid #e7e7e7;
+	height: 195px;
+	margin: 10px 0px;
+	position: relative;
+}
+.JDljzxRight>a>span{
+	display: block;
+	position: absolute;
+	left: 100px;
+	top: 33px;
+	z-index: 200;
+	width: 15px;
+	height: 117px;
+	-moz-box-shadow: 0 0 30px #999;
+	box-shadow: 0 0 30px #999;
+}
+.JDljzxRight>a>div{
+	position: absolute;
+	left: 15px;
+	top: 15px;
+	z-index: 300;
+	width: 100px;
+	border-top: 3px solid #e93524;
+	background: #fff;
+}
+.JDljzxRight>a>div p{
+	height: 36px;
+	line-height: 36px;
+	font-size: 34px;
+	margin-top: 7px;
+	font-weight: 700;
+	color: #f10214;
+}
+.JDljzxRight>a>div p em{
+	font-size: 14px;
+	padding-right: 3px;
+}
+.JDljzxRight>a>div>em{
+	display: block;
+	padding: 3px;
+	height: 36px;
+	line-height: 18px;
+	overflow: hidden;
+	text-overflow: ellipsis;
+	display: -webkit-box;
+	-webkit-line-clamp: 2;
+	-webkit-box-orient: vertical;
+	font-size: 12px;
+	color: #e93524;
+}
+.JDljzxRight>a>div span{
+	display: block;
+	width: 80px;
+	height: 36px;
+	line-height: 18px;
+	overflow: hidden;
+	text-overflow: ellipsis;
+	display: -webkit-box;
+	-webkit-line-clamp: 2;
+	-webkit-box-orient: vertical;
+	font-size: 12px;
+	color: #666;
+	padding: 15px 10px;
+	background: #e7e7e7 url("../images/home/JDljzx/JDljzx-bg.png") repeat-x;
+}
+.JDljzxRight>a>div i{
+	display: block;
+	width: 90px;
+	padding: 0px 5px;
+	height: 26px;
+	line-height: 26px;
+	text-align: center;
+	background: #e93524;
+	color: #fff;
+	font-size: 12px;
+	white-space: nowrap;
+	text-overflow: ellipsis;
+	overflow: hidden;
+}
+.JDljzxRight>a>img{
+	position: absolute;
+	top: 25px;
+	right: 15px;
+	z-index: 100;
+	transition:all 0.5s ease;
+	-moz-transition:all 0.5s ease;
+	-webkit-transition:all 0.5s ease;
+	-o-transition:all 0.5s ease;
+	-ms-transition:all 0.5s ease;
+}
+.JDljzxRight>a:hover img{
+	right: 0px;
+}
+/*End*/
+/*享品质Start*/
+.JDmainTop{
+	width: 100%;
+	height: 100px;
+	margin-bottom: 30px;
+	background: #e0e0e0;
+}
+.JDmainTop>div{
+	width: 1190px;
+	height: 100%;
+	margin: 0px auto;
+}
+.JDmainTop>div>a{
+	float: left;
+	display: block;
+	width: 33.333333%;
+	height: 100%;
+}
+.JDmainTop>div>a:hover{
+	opacity: 0.8;
+	-weikit-opacity: 0.8;
+	-moz-opacity: 0.8;
+	filter:alpha(opacity=80);
+}
+.JDmainTitle{
+	width: 1190px;
+	margin: 0px auto 20px;
+	background: url("../images/home/dottedLine.png") repeat-x center;
+}
+.JDmainTitle>h3{
+	width: 200px;
+	line-height: 35px;
+	margin: 0px auto;
+	text-align: center;
+	background-color: #f6f6f6;
+	font-weight: 400;
+	font-size: 26px;
+	color: #333;
+}
+.JDxpzMain{
+	width: 1190px;
+	margin: 0px auto 30px;
+}
+.JDxpzMain>a{
+	float: left;
+	background: green;
+	display: block;
+	width: 390px;
+	height: 170px;
+	margin: 0px 10px 10px 0px;
+	overflow: hidden;
+	position: relative;
+}
+.JDxpzMain>a>img{
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	z-index: 100;
+	transition:all 0.5s ease;
+	-moz-transition:all 0.5s ease;
+	-webkit-transition:all 0.5s ease;
+	-o-transition:all 0.5s ease;
+	-ms-transition:all 0.5s ease;
+}
+.JDxpzMain>a:hover>img{
+	left: -10px;
+}
+.JDxpzMain>a>span{
+	display: block;
+	width: 140px;
+	height: 170px;
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	z-index: 200;
+	background: #d58717;
+	opacity: 0.8;
+	-weikit-opacity: 0.8;
+	-moz-opacity: 0.8;
+	filter:alpha(opacity=80);
+}
+.JDxpzMain>a>span.bgColor2{
+	background: #3b838c!important;
+}
+.JDxpzMain>a>span.bgColor3{
+	background: #534b5d!important;
+}
+.JDxpzMain>a>span.bgColor4{
+	background: #a93931!important;
+}
+.JDxpzMain>a>span.bgColor5{
+	background: #642663!important;
+}
+.JDxpzMain>a>span.bgColor6{
+	background: #7e5944!important;
+}
+.JDxpzMain>a>div{
+	width: 100px;
+	position: absolute;
+	left: 20px;
+	top: 45px;
+	z-index: 300;
+}
+.JDxpzMain>a>div h3{
+	overflow: hidden;
+	height: 40px;
+	border-top: 2px solid #fff;
+	border-bottom: 2px solid #fff;
+	font-size: 20px;
+	color: #fff;
+	line-height: 40px;
+	text-align: center;
+	font-weight: 400;
+}
+.JDxpzMain>a>div p{
+	margin-top: 8px;
+	height: 32px;
+	line-height: 16px;
+	color: #fff;
+	overflow: hidden;
+	text-overflow: ellipsis;
+	display: -webkit-box;
+	-webkit-line-clamp: 2;
+	-webkit-box-orient: vertical;
+}
+/*End*/
+/*爱生活Start*/
+.JDashMain{
+	width: 1190px;
+	height: 523px;
+	margin: 0px auto 30px;
+	position: relative;
+}
+.JDashMainCenter{
+	width: 1px;
+	height: 400px;
+	background: #e6e6e6;
+	position: absolute;
+	top: 68px;
+	left: 50%;
+}
+.JDashMain>div.item{
+	width: 590px;
+	height: 100%;
+	background: #fff;
+}
+.JDashMainTitle{
+	width: 100%;
+	height: 58px;
+	background: #999;
+	position: relative;
+}
+.JDashMainTitle>h3{
+	font-size: 22px;
+	color: #fff;
+	height: 26px;
+	line-height: 26px;
+	font-weight: lighter;
+	font-family: "黑体","楷体","宋体";
+	max-width: 100px;
+	overflow: hidden;
+	white-space: nowrap;
+	text-overflow: ellipsis;
+	position: absolute;
+	top: 16px;
+	left: 25px;
+}
+.JDashMainTitle>div{
+	position: absolute;
+	top: 16px;
+	right: 20px;
+}
+.JDashMainTitle>div>a{
+	display: inline-block;
+	height: 24px;
+	line-height: 24px;
+	padding: 0 10px;
+	border: 1px solid #fff;
+	color: #fff;
+	font-size: 12px;
+	margin-left: 6px;
+	max-width: 100px;
+	overflow: hidden;
+	white-space: nowrap;
+	text-overflow: ellipsis;
+}
+.JDashMainTitle>div>a:hover{
+	border: 1px solid #fff!important;
+}
+.JDashMainMain{
+	width: 570px;
+	height: 445px;
+	margin: 10px;
+	position: relative;
+}
+.JDashMainMain img{
+	transition:all 0.5s ease;
+	-moz-transition:all 0.5s ease;
+	-webkit-transition:all 0.5s ease;
+	-o-transition:all 0.5s ease;
+	-ms-transition:all 0.5s ease;
+}
+.JDashMainMain .mLeft img,
+.JDashMainMain .mCenter img{
+	position: relative;
+	left: 0px;
+	top: 0px;
+}
+.JDashMainMain .mLeft a:hover img,
+.JDashMainMain .mCenter a:hover img{
+	left: -10px;
+}
+.JDashMainMain .mLeft{
+	width: 183px;
+	height: 260px;
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	overflow: hidden;
+}
+.JDashMainMain .mRight{
+	width: 376px;
+	height: 260px;
+	position: absolute;
+	top: 0px;
+	right: 0px;
+}
+.JDashMainMain .mRight>a{
+	float: left;
+	display: block;
+	width: 188px;
+	height: 130px;
+	box-sizing: border-box;
+	border-right: 1px solid #e7e7e7;
+	border-bottom: 1px solid #e7e7e7;
+	position: relative;
+	z-index: 200;
+}
+.JDashMainMain .mRight>a p{
+	font-size: 14px;
+	color: #999;
+	width: 130px;
+	line-height: 21px;
+	overflow: hidden;
+	white-space: nowrap;
+	text-overflow: ellipsis;
+	position: absolute;
+	top: 25px;
+	left: 25px;
+	z-index: 200;
+}
+.JDashMainMain .mRight>a span{
+	display: block;
+	width: 50px;
+	line-height: 18px;
+	font-size: 12px;
+	color: #666;
+	position: absolute;
+	left: 25px;
+	top: 50px;
+	z-index: 200;
+}
+.JDashMainMain .mRight>a img{
+	position: absolute!important;
+	right: 5px;
+	bottom: 10px;
+	z-index: 100;
+}
+.JDashMainMain .mRight>a:hover img{
+	right: 15px;
+}
+.JDashMainMain .mCenter{
+	width: 100%;
+	height: 130px;
+	position: absolute;
+	left: 0px;
+	bottom: 45px;
+}
+.JDashMainMain .mCenter>a{
+	float: left;
+	display: block;
+	width: 183px;
+	height: 130px;
+	margin-right: 10.5px;
+	overflow: hidden;
+}
+.JDashMainMain .mBottom{
+	width: 100%;
+	height: 35px;
+	position: absolute;
+	left: 0px;
+	bottom: 0px;
+	overflow: hidden;
+}
+.mBottom>span{
+	display: none;
+	width: 10px;
+	height: 35px;
+	line-height: 35px;
+	text-align: center;
+	color: #666;
+	cursor: pointer;
+	position: absolute;
+	top: 0px;
+	z-index: 200;
+}
+.mBottom>span:hover{
+	color: #c81623;
+}
+.mBottom>span.left{
+	left: -0px;
+}
+.mBottom>span.right{
+	right: -0px;
+}
+.mBottom>.JDlb{
+	width: 550px;
+	height: 35px;
+	margin: 0px auto;
+	overflow: hidden;
+	position: relative;
+	z-index: 100;
+}
+.mBottom>.JDlb>ul{
+	/*width: 570px;*/
+	width: 1000%;
+	height: 35px;
+	overflow: hidden;
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	z-index: 100;
+}
+.mBottom>.JDlb>ul>li{
+	float: left;
+	width: 550px;
+	height: 35px;
+	text-align: center;
+	line-height: 35px;
+}
+.mBottom>.JDlb>ul>li>a{
+	display: inline-block;
+}
+.mBottom>.JDlb>ul>li>a:hover{
+	opacity: 0.8;
+	-weikit-opacity: 0.8;
+	-moz-opacity: 0.8;
+	filter:alpha(opacity=80);
+}
+.mBottom>.JDlb>ul>li>span{
+	display: inline-block;
+	height: 21px;
+	margin: 7px 8px;
+	border-right: 1px solid #ccc;
+}
+	/*爱逛*/
+.JDag .JDashMainTitle{
+	background-color: #974676;
+	background-image: linear-gradient(90deg,#974676,#9e4075);
+	background-image: -webkit-linear-gradient(90deg,#974676,#9e4075);
+	background-image: -webkit-linear-gradient(left,#974676,#9e4075);
+}
+.JDag .JDashMainTitle>div>a{
+	border: 1px solid #c187af;
+	background-color: #ac6f93;
+}
+.JDag .JDashMainMain .mRight>a p{
+	color: #974676;
+}
+	/*爱美丽*/
+.JDaml .JDashMainTitle{
+	background-color: #cd375e;
+	background-image: linear-gradient(90deg,#cd375e,#c1314d);
+	background-image: -webkit-linear-gradient(90deg,#cd375e,#c1314d);
+	background-image: -webkit-linear-gradient(left,#cd375e,#c1314d);
+}
+.JDaml .JDashMainTitle>div>a{
+	border: 1px solid #de7b95;
+	background-color: #d36581;
+}
+.JDaml .JDashMainMain .mRight>a p{
+	color: #cd375e;
+}
+	/*家电馆*/
+.JDjdg .JDashMainTitle{
+	background-color: #78538e;
+	background-image: linear-gradient(90deg,#78538e,#674083);
+	background-image: -webkit-linear-gradient(90deg,#78538e,#674083);
+	background-image: -webkit-linear-gradient(left,#78538e,#674083);
+}
+.JDjdg .JDashMainTitle>div>a{
+	border: 1px solid #9e84b1;
+	background-color: #9379a5;
+}
+.JDjdg .JDashMainMain .mRight>a p{
+	color: #78538e;
+}
+	/*搞机派*/
+.JDgjp .JDashMainTitle{
+	background-color: #5e6c90;
+	background-image: linear-gradient(90deg,#5e6c90,#4c5e8c);
+	background-image: -webkit-linear-gradient(90deg,#5e6c90,#4c5e8c);
+	background-image: -webkit-linear-gradient(left,#5e6c90,#4c5e8c);
+}
+.JDgjp .JDashMainTitle>div>a{
+	border: 1px solid #94a1c0;
+	background-color: #7f8ca8;
+}
+.JDgjp .JDashMainMain .mRight>a p{
+	color: #5e6c90;
+}
+	/*电脑数码*/
+.JDdnsm{
+	background: #fff;
+}
+.JDdnsm .JDashMainTitle{
+	background-color: #488bad;
+	background-image: linear-gradient(90deg,#488bad,#337e8d);
+	background-image: -webkit-linear-gradient(90deg,#488bad,#337e8d);
+	background-image: -webkit-linear-gradient(left,#488bad,#337e8d);
+}
+.JDdnsm .JDashMainTitle>div>a{
+	border: 1px solid #77b6c3;
+	background-color: #6da6be;
+}
+.JDdnsm .JDashMainMain .mRight>a p{
+	color: #488bad;
+}
+.JDmain .JDmainLB{
+	width: 1170px;
+	height: 35px;
+	position: absolute;
+	bottom: 10px;
+	left: 10px;
+}
+.JDmain .JDmainLB>.JDlb{
+	width: 1150px;
+}
+.JDmain .JDmainLB>.JDlb>ul>li{
+	width: 1150px;
+}
+	/*玩3C*/
+.JDw3c .JDashMainTitle{
+	background-color: #3aaba9;
+	background-image: linear-gradient(90deg,#3aaba9,#299b9a);
+	background-image: -webkit-linear-gradient(90deg,#3aaba9,#299b9a);
+	background-image: -webkit-linear-gradient(left,#3aaba9,#299b9a);
+}
+.JDw3c .JDashMainTitle>div>a{
+	border: 1px solid #6fcfce;
+	background-color: #65bbb9;
+}
+.JDw3c .JDashMainMain .mRight>a p{
+	color: #3aaba9;
+}
+	/*爱运动*/
+.JDayd .JDashMainTitle{
+	background-color: #568e7d;
+	background-image: linear-gradient(90deg,#568e7d,#447e6c);
+	background-image: -webkit-linear-gradient(90deg,#568e7d,#447e6c);
+	background-image: -webkit-linear-gradient(left,#568e7d,#447e6c);
+}
+.JDayd .JDashMainTitle>div>a{
+	border: 1px solid #79aa9e;
+	background-color: #72a293;
+}
+.JDayd .JDashMainMain .mRight>a p{
+	color: #568e7d;
+}
+	/*爱吃*/
+.JDac{
+	background: #fff;
+}
+.JDac .JDashMainTitle{
+	background-color: #eeb924;
+	background-image: linear-gradient(90deg,#eeb924,#e49433);
+	background-image: -webkit-linear-gradient(90deg,#eeb924,#e49433);
+	background-image: -webkit-linear-gradient(left,#eeb924,#e49433);
+}
+.JDac .JDashMainTitle>div>a{
+	border: 1px solid #f9d661;
+	background-color: #edca56;
+}
+.JDac .JDashMainMain .mRight>a p{
+	color: #eeb924;
+}
+.JDac .mTopLeft{
+	left: 193px!important;
+}
+.JDac .mRight.mTopRight{
+	width: 188px!important;
+}
+	/*爱宝宝*/
+.JDabb .JDashMainTitle{
+	background-color: #e16c46;
+	background-image: linear-gradient(90deg,#e16c46,#e85629);
+	background-image: -webkit-linear-gradient(90deg,#e16c46,#e85629);
+	background-image: -webkit-linear-gradient(left,#e16c46,#e85629);
+}
+.JDabb .JDashMainTitle>div>a{
+	border: 1px solid #ef9f81;
+	background-color: #e28465;
+}
+.JDabb .JDashMainMain .mRight>a p{
+	color: #e16c46;
+}
+	/*爱家*/
+.JDaj .JDashMainTitle{
+	background-color: #a56741;
+	background-image: linear-gradient(90deg,#a56741,#925937);
+	background-image: -webkit-linear-gradient(90deg,#a56741,#925937);
+	background-image: -webkit-linear-gradient(left,#a56741,#925937);
+}
+.JDaj .JDashMainTitle>div>a{
+	border: 1px solid #c19369;
+	background-color: #b08061;
+}
+.JDaj .JDashMainMain .mRight>a p{
+	color: #a56741;
+}
+	/*爱阅读*/
+.JDaiyd .JDashMainTitle{
+	background-color: #756059;
+	background-image: linear-gradient(90deg,#756059,#684c44);
+	background-image: -webkit-linear-gradient(90deg,#756059,#684c44);
+	background-image: -webkit-linear-gradient(left,#756059,#684c44);
+}
+.JDaiyd .JDashMainTitle>div>a{
+	border: 1px solid #9e8a84;
+	background-color: #897b75;
+}
+.JDaiyd .JDashMainMain .mRight>a p{
+	color: #756059;
+}
+	/*爱车*/
+.JDaic .JDashMainTitle{
+	background-color: #865454;
+	background-image: linear-gradient(90deg,#865454,#7e3b3c);
+	background-image: -webkit-linear-gradient(90deg,#865454,#7e3b3c);
+	background-image: -webkit-linear-gradient(left,#865454,#7e3b3c);
+}
+.JDaic .JDashMainTitle>div>a{
+	border: 1px solid #b48787;
+	background-color: #987171;
+}
+.JDaic .JDashMainMain .mRight>a p{
+	color: #865454;
+}
+	/*爱游戏*/
+.JDashMain>div.itemss{
+	width: 390px!important;
+	margin-right: 10px;
+}
+.JDashMain>div.itemss .JDashMainMain{
+	width: 370px!important;
+}
+.JDashMain>div.itemss .mRight{
+	width: 188px!important;
+}
+.JDashMain>div.itemss .mRight>a{
+	width: 178px;
+	margin-left: 10px;
+}
+.JDashMain>div.itemss .mCenter>a{
+	width: 180px;
+	margin-right: 10px;
+}
+	/*轮播*/
+.JDayxJD .JDlb{
+	width: 370px;
+}
+.JDayxJD .JDlb>ul>li{
+	width: 370px;
+}
+	/*爱游戏*/
+.JDayx .JDashMainTitle{
+	background-color: #6467a0;
+	background-image: linear-gradient(90deg,#6467a0,#544b8f);
+	background-image: -webkit-linear-gradient(90deg,#6467a0,#544b8f);
+	background-image: -webkit-linear-gradient(left,#6467a0,#544b8f);
+}
+.JDayx .JDashMainTitle>div>a{
+	border: 1px solid #9598cd;
+	background-color: #7c80af;
+}
+.JDayx .JDashMainMain .mRight>a p{
+	color: #6467a0;
+}
+	/*生活旅行*/
+.JDshlx .JDashMainTitle{
+	background-color: #5981a3;
+	background-image: linear-gradient(90deg,#5981a3,#41698b);
+	background-image: -webkit-linear-gradient(90deg,#5981a3,#41698b);
+	background-image: -webkit-linear-gradient(left,#5981a3,#41698b);
+}
+.JDshlx .JDashMainTitle>div>a{
+	border: 1px solid #82a5bc;
+	background-color: #6c90ab;
+}
+.JDshlx .JDashMainMain .mRight>a p{
+	color: #5981a3;
+}
+	/*京东金融*/
+.JDjdjr .JDashMainTitle{
+	background-color: #5a7259;
+	background-image: linear-gradient(90deg,#5a7259,#425f41);
+	background-image: -webkit-linear-gradient(90deg,#5a7259,#425f41);
+	background-image: -webkit-linear-gradient(left,#5a7259,#425f41);
+}
+.JDjdjr .JDashMainTitle>div>a{
+	border: 1px solid #78977a;
+	background-color: #758975;
+}
+.JDjdjr .JDashMainMain .mRight>a p{
+	color: #5a7259;
+}
+/*End*/
+/*购特色Start*/
+#JDgts .JDgtsMain{
+	width: 1190px;
+	height: 140px;
+	margin: 0px auto 30px;
+}
+.JDgtsMain>a{
+	float: left;
+	display: block;
+	width: 160px;
+	margin: 0px 5px;
+	height: 140px;
+	overflow: hidden;
+	position: relative;
+}
+.JDgtsMain>a>img{
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	z-index: 100;
+}
+.JDgtsMain>a>div{
+	position: absolute;
+	left: 0px;
+	bottom: 0px;
+	z-index: 200;
+	width: 100%;
+	text-align: center;
+	color: #fff;
+	opacity: 0.9;
+	padding: 10px 0px;
+}
+.JDgtsMain>a>div.item1{
+	background: #886049;
+}
+.JDgtsMain>a>div.item2{
+	background: #74567B;
+}
+.JDgtsMain>a>div.item3{
+	background: #ca3030;
+}
+.JDgtsMain>a>div.item4{
+	background: #459263;
+}
+.JDgtsMain>a>div.item5{
+	background: #da5d40;
+}
+.JDgtsMain>a>div.item6{
+	background: #4f87b1;
+}
+.JDgtsMain>a>div.item7{
+	background: #d5bb09;
+}
+.JDgtsMain>a>div h3{
+	font-size: 19px;
+	line-height: 24px;
+	font-weight: lighter;
+}
+.JDgtsMain>a>div p{
+	font-size: 12px;
+	font-weight: 700;
+	padding: 0px 10px;
+	white-space: nowrap;
+	text-overflow: ellipsis;
+	overflow: hidden;
+}
+/*End*/
+/*还没逛够Start*/
+#JDhmgg{
+	margin-bottom: 30px;
+}
+#JDhmgg .JDhmggMain{
+	width: 1190px;
+	margin: 0px auto;
+}
+.JDhmggMainItem{
+	width: 100%;
+	margin-bottom: 10px;
+}
+.JDhmggMainItem>a{
+	float: left;
+	display: block;
+	width: 220px;
+	height: 305px;
+	padding: 4px;
+	border: 1px solid #fff;
+	margin-right: 10px;
+	background: #fff;
+}
+.JDhmggMainItem>a:hover{
+	border-color: #ff0000;
+}
+.JDhmggMainItem>a:hover>p{
+	color: #c81623!important;
+}
+.JDhmggMainItem>a>p{
+	height: 40px;
+	line-height: 20px;
+	color: #666;
+	font-size: 13px;
+	padding: 0px 10px;
+	margin: 10px 0px 5px;
+	overflow: hidden;
+	text-overflow: ellipsis;
+	display: -webkit-box;
+	-webkit-line-clamp: 2;
+	-webkit-box-orient: vertical;
+}
+.JDhmggMainItem>a>span{
+	display: block;
+	padding: 0px 10px;
+	font-size: 16px;
+	color: #f10214;
+}
+.JDhmggMainItem>a>span>em{
+	font-size: 12px;
+	padding-right: 3px;
+}
+/*End*/
+/*京东底部Start*/
+#JDfooter{
+	width: 100%;
+	height: 500px;
+	background: #eaeaea;
+}
+.JDfooterTop{
+	padding: 30px 0px;
+	border-bottom: 1px solid  #dedede;
+}
+.JDfooterTop>ul{
+	width: 1190px;
+	height: 42px;
+	margin: 0px auto;
+}
+.JDfooterTop>ul>li{
+	float: left;
+	width: 25%;
+	height: 42px;
+}
+.JDfooterTop>ul>li>div{
+	width: 225px;
+	height: 42px;
+	margin: 0px auto;
+	background: url("../images/home/JDfooter/JDfooter-icon.png") no-repeat;
+	background-position: 0px 0px;
+}
+.JDfooterTop>ul>li>div.bgPosition2{
+	background-position: 0px -42.5px!important;
+}
+.JDfooterTop>ul>li>div.bgPosition3{
+	background-position: 0px -86px!important;
+}
+.JDfooterTop>ul>li>div.bgPosition4{
+	background-position: 0px -128.5px!important;
+}
+.JDfooterTop>ul>li>div>p{
+	height: 42px;
+	line-height: 42px;
+	font-size: 18px;
+	font-weight: bolder;
+	overflow: hidden;
+	text-overflow: ellipsis;
+	white-space: nowrap;
+	color: #444;
+	margin-left: 45px;
+}
+.JDfooterCenter{
+	width: 1190px;
+	height: 160px;
+	margin: 0px auto;
+	padding: 20px 0px;
+	border-bottom: 1px solid #dedede;
+}
+.JDfooterCenter>div.item{
+	float: left;
+	width: 198px;
+	height: 160px;
+	line-height: 22px;
+	color: #666;
+}
+.JDfooterCenter>div h4{
+	font-size: 14px;
+	margin-bottom: 5px;
+}
+.JDfooterCenter>div a{
+	color: #666;
+	font-size: 12px;
+}
+.JDfooterCenter>div a:hover{
+	color: #c81623;
+}
+.JDfooterCenter>div.map{
+	float: right;
+	width: 200px;
+	height: 150px;
+	background-image: url("../images/home/JDfooter/ico_footer.png");
+	background-size: 207px 249px;
+	background-position: 0px 0px;
+}
+.JDfooterCenter>div.map h4{
+	text-align: center;
+	margin-bottom: 15px;
+}
+.JDfooterCenter>div.map p{
+	padding: 0px 10px;
+	color: #666;
+	font-size: 12px;
+	line-height: 18px;
+}
+.JDfooterBottom{
+	width: 1190px;
+	margin: 0px auto;
+	padding: 15px 0px;
+	text-align: center;
+	font-size: 12px;
+	color: #999;
+}
+.JDfooterNav a{
+	color: #666;
+	font-weight: 600;
+}
+.JDfooterNav a:hover{
+	color: #c81623;
+}
+.JDfooterNav span,
+.JDfooterCopyright span{
+	color: #ccc;
+	margin: 0px 10px;
+}
+.JDfooterCopyright{
+	padding: 10px 0px;
+	line-height: 22px;
+}
+.JDfooterCopyright a{
+	color: #999;
+}
+.JDfooterImg>a{
+	display: inline-block;
+	width: 103px;
+	height: 32px;
+	margin: 0px 3px;
+	background-image: url("../images/home/JDfooter/ico_footer.png");
+	background-size: 207px 249px;
+	background-position: 0px -150px;
+}
+.JDfooterImg>a.footerImg2{
+	background-position: 103px -150px!important;
+}
+.JDfooterImg>a.footerImg3{
+	background-position: 0px -182px!important;
+}
+.JDfooterImg>a.footerImg4{
+	background-position: 103px -182px!important;
+}
+.JDfooterImg>a.footerImg5{
+	background-position: 0px -214px!important;
+}
+.JDfooterImg>a.footerImg6{
+	background-position: 103px -214px!important;
+}
+/*End*/
